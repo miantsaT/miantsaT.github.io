@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="168.147 181.78 164.842 138.144" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(0.984808, -0.173648, 0.173648, 0.984808, -39.841099, 47.357285)">
+    <rect x="151.154" y="103.878" width="21" height="43.331" style="fill: rgb(188, 49, 143); paint-order: fill markers; vector-effect: non-scaling-stroke;" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -9.297046, 257.007843)" rx="10.5" ry="10.5"/>
+    <rect x="128.311" y="192.518" width="110.031" height="21" style="fill: rgb(188, 49, 143); fill-rule: nonzero; paint-order: fill markers; vector-effect: non-scaling-stroke;" rx="12.277" ry="12.277" transform="matrix(0.999999, -0.001194, 0, 1.000001, 67.221664, 0.185101)"/>
+    <rect x="289.494" y="172.891" width="21" height="50" style="fill: rgb(188, 49, 143); paint-order: fill markers; vector-effect: non-scaling-stroke;" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -46.77235, 285.9104)" rx="10.5" ry="10.5"/>
+    <rect x="305.453" y="214.249" width="21" height="75" style="fill: rgb(188, 49, 143); paint-order: fill markers; vector-effect: non-scaling-stroke;" rx="10.5" ry="10.5"/>
+    <rect x="289.494" y="172.891" width="21" height="50" style="fill: rgb(188, 49, 143); paint-order: fill markers; vector-effect: non-scaling-stroke;" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 233.117233, -62.762451)" rx="10.5" ry="10.5"/>
+    <rect x="123.78" y="192.518" width="106.145" height="21" style="fill: rgb(188, 49, 143); fill-rule: nonzero; paint-order: fill markers; vector-effect: non-scaling-stroke;" rx="12.277" ry="12.277" transform="matrix(0.999999, -0.001194, 0, 1.000001, 75.725754, 96.732124)"/>
+    <rect x="151.155" y="119.866" width="21" height="50" style="fill: rgb(188, 49, 143); paint-order: fill markers; vector-effect: non-scaling-stroke;" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -17.597031, 300.86145)" rx="10.5" ry="10.5"/>
+    <rect x="289.494" y="169.433" width="21" height="49" style="fill: rgb(188, 49, 143); paint-order: fill markers; vector-effect: non-scaling-stroke;" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 121.034904, -136.165176)" rx="10.5" ry="10.5"/>
+  </g>
+  <ellipse style="fill: rgb(245, 150, 51); stroke: rgb(255, 255, 255); stroke-width: 2px;" cx="211.894" cy="247.067" rx="20" ry="20" transform="matrix(0.984808, -0.173648, 0.173648, 0.984808, -39.841088, 47.357293)"/>
+</svg>
