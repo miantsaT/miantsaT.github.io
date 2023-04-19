@@ -446,7 +446,6 @@ header .title .last {
     position: absolute;
     transition: all .5s ease;
     opacity: 0;
-    background: var(--color-butter);
     height: 0;
     width: 100%;
     bottom: 0;
@@ -455,8 +454,12 @@ header .title .last {
     font-family: Poppins;
 }
 
+.overlay > div {
+    background: var(--color-butter);
+}
+
 .portfolio_item:hover .overlay{
-    opacity: 0.85;
+    opacity: 0.95;
 	height: 100%;
     cursor: pointer;
 }
