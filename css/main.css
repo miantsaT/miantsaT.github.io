@@ -15,9 +15,6 @@
     src: url('fonts/sheenline.ttf') format('truetype');
 }
 
-html, .wrapper {
-    scroll-behavior: smooth !important;
-}
 
 :root {
     --color-black: #000;
@@ -37,6 +34,12 @@ html, .wrapper {
     --color-butter-3: #fff2d2;
     --color-butter-4: #ffe7ab;
     --color-butter-5: #ffe49f;
+}
+
+html, .wrapper {
+    scroll-behavior: smooth !important;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-butter-dark-1) transparent;
 }
 
 .container {
